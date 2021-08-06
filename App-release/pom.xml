@@ -39,5 +39,11 @@
 			<version>${dep.servlet.version}</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+  			<groupId>com.codenameone</groupId>
+  			<artifactId>googlemaps</artifactId>
+  			<version>1.0.1</version>
+  			<type>pom</type>
+		</dependency>
 	</dependencies>
 </project>
